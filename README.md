@@ -28,7 +28,7 @@ sudo apt update && sudo apt install -y python3 python3-venv python3-pip curl scr
 ```
 **4. Clone Repository**
 ```
-git clone https://github.com/Brrrskuy/rl-swarm.git && cd rl-swarm
+git clone https://github.com/gensyn-ai/rl-swarm.git && cd rl-swarm
 ```
 **5. Create Screen**
 ```
